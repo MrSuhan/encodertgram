@@ -44,7 +44,7 @@ crf.append("30")
 codec.append("libx265")
 resolution.append("854x480")
 preset.append("veryfast")
-audio_b.append("128k")
+audio_b.append("40k")
 # 🤣
 
 
